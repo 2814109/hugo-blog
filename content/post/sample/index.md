@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "Markdown Syntax Guide Sample"
 date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements. sample text"
 tags = [
     "markdown",
     "css",
@@ -13,7 +13,7 @@ categories = [
     "themes",
     "syntax",
 ]
-series = ["Themes Guide"]
+series = ["Themes Guide Sample"]
 aliases = ["migrate-from-jekyl"]
 image = "スクリーンショット 2023-11-21 19.22.30.png"
 +++
